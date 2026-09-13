@@ -1,4 +1,4 @@
-
+TINYML GESTURE BASED PROJECT
 
 **Compression, Measured.**
 *Train it. Shrink it. Benchmark it. Know exactly what you lost — and what you didn't.*
