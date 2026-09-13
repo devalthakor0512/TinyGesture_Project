@@ -1,0 +1,4 @@
+Technique,Size (KB),Accuracy (%),Latency (ms)
+Baseline (float32),68.2,85.00,0.178
+Quantized (int8),22.1,85.00,1.030
+Pruned (50% sparse),68.2,85.62,0.154
